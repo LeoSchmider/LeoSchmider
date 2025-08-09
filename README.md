@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on modeling chemical processes<br>👯 I’m looking to collaborate on Clapeyron<br>🌱 I’m currently learning Julia and Python<br>💬 Ask me about Matlab and Modelica<br>⚡ ChemE student with Msc
+🔭 I’m currently working on modeling chemical processes<br>👯 I’m looking to collaborate on Clapeyron.jl, ProcessModeling.jl <br>🌱 I’m currently learning Julia and Python<br>💬 Ask me about Matlab and Modelica<br>⚡ ChemE student with Msc
 
 
 ## 🌐 Socials:
